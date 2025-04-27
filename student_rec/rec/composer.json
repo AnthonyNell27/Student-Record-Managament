@@ -1,0 +1,11 @@
+{
+    "name": "keyst/rec",
+    "autoload": {
+        "psr-4": {
+            "Keyst\\Rec\\": "src/"
+        }
+    },
+    "require": {
+        "phpmailer/phpmailer": "^6.9"
+    }
+}
